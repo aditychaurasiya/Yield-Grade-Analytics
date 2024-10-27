@@ -40,10 +40,10 @@ Conducted independent two-sample t-tests to determine if there are significant d
 Machine Learning
 # K-Nearest Neighbors (KNN)
 
-Trained a KNN classifier to predict apple quality. The model achieved an accuracy of approximately 89.6%.
+Trained a KNN classifier to predict apple quality. The model achieved an accuracy of approximately 90%.
 # Random Forest
 
-Trained a Random Forest classifier to predict apple quality. The model achieved an accuracy of approximately 88.5%.
+Trained a Random Forest classifier to predict apple quality. The model achieved an accuracy of approximately 90%.
 # Classification Report
 
 Generated classification reports and visualized them using heatmaps to assess model performance.
